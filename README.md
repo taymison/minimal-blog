@@ -3,6 +3,8 @@
 
 Blog built with Jekyll during course "Building static sites with Jekyll".
 
+You can see the result in [here](https://taymison.github.io/minimal-blog/).
+
 The course is avaliable at [Udemy](https://www.udemy.com/criando-sites-estaticos-com-jekyll/).
 
 During the course the following topics were addressed:
@@ -31,3 +33,5 @@ The post pages have a script that estimates read time.
 It uses Disqus to manage comments on posts.
 
 ![Disqus in Jekyll](https://lh5.googleusercontent.com/xsyxzINxA4A31iP4vLsi5FktQOGQ3SCMzYps-OuxvKm2B7-3GaBhBHPB0V5R_BrVtjbOef3NSUheXI0=w1366-h632)
+
+See the [result](https://taymison.github.io/minimal-blog/).
