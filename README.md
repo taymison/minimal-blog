@@ -20,18 +20,18 @@ The blog uses a customization of the theme [Minima](https://jekyll.github.io/min
 
 It has a main page with a header and links to the posts in chronological order.
 
-![Main page with posts in chronological order](https://lh6.googleusercontent.com/3eWB3kDLH0mt52lwDqCEaKGpk9pKc6v40yZdqVI0j6jQuZcrrNn7nRhOOKB5PYrCaWC9vWj_Td9Hvrw=w1366-h632)
+![Main page with posts in chronological order](https://raw.githubusercontent.com/taymison/minimal-blog/master/docs/assets/img/home.png)
 
 Also has layouts for fixed pages and posts.
 
-![Layout for fixed page](https://lh3.googleusercontent.com/A2iEimyyITxWEZAh598PwOc0USDRuSxx6U8bs23yeWwM3pNOXr1YZviV3Fia8kDivNDXNwObJKqknn0=w1366-h632)
+![Layout for fixed page](https://raw.githubusercontent.com/taymison/minimal-blog/master/docs/assets/img/static-page.png)
 
 The post pages have a script that estimates read time.
 
-![Post with estimated read time](https://lh3.googleusercontent.com/2d0gaqw4Sg8RHojqKGh1eEuTOV4nG2bHyFPqYCgXzwpwVTrFU1f901KlgK7O9RXj-d5BMLEdQxTeZA0=w1366-h632)
+![Post with estimated read time](https://raw.githubusercontent.com/taymison/minimal-blog/master/docs/assets/img/post.png)
 
 It uses Disqus to manage comments on posts.
 
-![Disqus in Jekyll](https://lh5.googleusercontent.com/xsyxzINxA4A31iP4vLsi5FktQOGQ3SCMzYps-OuxvKm2B7-3GaBhBHPB0V5R_BrVtjbOef3NSUheXI0=w1366-h632)
+![Disqus in Jekyll](https://raw.githubusercontent.com/taymison/minimal-blog/master/docs/assets/img/disqus.png)
 
 See the [result](https://taymison.github.io/minimal-blog/).
