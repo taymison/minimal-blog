@@ -5,7 +5,7 @@ _Blog built with Jekyll during course "Building static sites with Jekyll"._
 
 You can see the result in [here](https://taymison.github.io/minimal-blog/).
 
-The course is avaliable at [Udemy](https://www.udemy.com/criando-sites-estaticos-com-jekyll/).
+The course is available at [Udemy](https://www.udemy.com/criando-sites-estaticos-com-jekyll/).
 
 During the course the following topics were addressed:
 
