@@ -22,7 +22,7 @@ It has a main page with a header and links to the posts in chronological order.
 
 Also has layouts for fixed pages and posts.
 
-![Layout for fixed page](https://lh3.googleusercontent.com/ED1qIMtD8HkZrbRLEkN5WZM9n-Wd9Z150Y35yRh3_5KcdO9DCrA7Mvgd4GQ_YWuNiSK67tjMqw-CNy8=w1366-h632)
+![Layout for fixed page](https://lh3.googleusercontent.com/NHqFh5PU0WNCbvmnLFsxDzqMAYO6nYAGxFkTA1cLgEkSWddSAWc6FApIdI72x8NlSTPrKsjqyEWHxOE=w1366-h632)
 
 The post pages have a script that estimates read time.
 
