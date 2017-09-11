@@ -1,7 +1,7 @@
 
 # Minimal Blog
 
-Blog built with Jekyll during course "Building static sites with Jekyll".
+_Blog built with Jekyll during course "Building static sites with Jekyll"._
 
 You can see the result in [here](https://taymison.github.io/minimal-blog/).
 
