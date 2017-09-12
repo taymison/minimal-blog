@@ -1,7 +1,8 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 # Minimal Blog
 
-_Blog built with Jekyll during course "Building static sites with Jekyll"._
+> Blog built with Jekyll during course "Building static sites with Jekyll".
 
 You can see the result in [here](https://taymison.github.io/minimal-blog/).
 
